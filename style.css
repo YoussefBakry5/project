@@ -32,13 +32,13 @@
   }
   
   .image_container {
-    border-radius: 50%;
+    border-radius: 10%;
     overflow: hidden;
   }
   
   .image_container,
   img {
-    width: 300px;
+    width: 400;
     height: 320px;
   }
   .about_section {
